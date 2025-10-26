@@ -1,10 +1,10 @@
 ### 👋 About Me
 
 <p align="left">
-I'm an **Electrical Engineering student** at **Rutgers University – New Brunswick**.
+I'm an Electrical Engineering student at Rutgers University – New Brunswick.
 </p>
 
-🔬 I’m currently conducting **research in Spectral Analysis**, focusing on efficient signal representation and frequency-domain techniques.  
+🔬 I’m currently working on research in Spectral Analysis, focusing on efficient signal representation and frequency-domain techniques.  
 
 💻 I’ve taken courses such as **Data Structures**, **Software Methodology**, and **Introduction to Artificial Intelligence** in the Computer Science department, where I learned to apply **Java** and **Python** in problem-solving and algorithmic design.  
 
@@ -16,7 +16,12 @@ I'm an **Electrical Engineering student** at **Rutgers University – New Brunsw
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 
+### 📈 GitHub Stats
 
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scarletrat&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarletrat&layout=compact&theme=tokyonight)
+
+---
 
 <!--
 **scarletrat/scarletrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
