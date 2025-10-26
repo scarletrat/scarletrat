@@ -1,4 +1,4 @@
-### 👋 About Me
+### 👋 Hello
 
 <p align="left">
 I'm an Electrical Engineering student at Rutgers University – New Brunswick.
