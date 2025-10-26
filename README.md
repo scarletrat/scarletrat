@@ -1,51 +1,31 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+### 👋 About Me
 
-###
+<p align="left">
+I'm an **Electrical Engineering student** at **Rutgers University – New Brunswick**.
+</p>
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+🔬 I’m currently conducting **research in Spectral Analysis**, focusing on efficient signal representation and frequency-domain techniques.  
 
-###
+💻 I’ve taken courses such as **Data Structures**, **Software Methodology**, and **Introduction to Artificial Intelligence** in the Computer Science department, where I learned to apply **Java** and **Python** in problem-solving and algorithmic design.  
 
-<h2 align="left">About me</h2>
+⚙️ I’ve also completed **Embedded Systems I**, where I worked with **VHDL** to design and simulate hardware logic.  
 
-###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![VHDL](https://img.shields.io/badge/-VHDL-333?style=flat&logo=vhdl)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 
-###
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
 
 <!--
 **scarletrat/scarletrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on research of Spectral Analysis. 
+- 🌱 I have taken Data Structures, Software Methology, and Intro to AI in the computer science department where I learn to apply Java and Python.
+- 👯 I have taken Embedded Systems I where I have learned to apply hardware language, VHDl.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
